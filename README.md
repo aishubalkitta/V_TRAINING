@@ -1,4 +1,4 @@
 # VIRTUSA_TRAINING
-
--[x] Student Management System
--[ ] Electrician Hiring System
+* PROJECTS
+  - [x] Student Management System
+  - [ ] Electrician Hiring System
