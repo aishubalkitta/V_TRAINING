@@ -3,6 +3,12 @@
 ### Student Management System:
   * In this project, student details are recorded and stored in MySQL database
   * It involves operations like:<br>- Insertion<br>- Updation<br>- Deletion
+    #### Software Requirements:
+     * SpringBoot
+     * HTML
+     * CSS
+     * Java
+     * Maven
     #### Dependencies included: 
      * Spring Web
      * Spring Data JPA
