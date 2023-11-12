@@ -1,4 +1,4 @@
-# VIRTUSA TRAINING
+# V_TRAINING
 ## PROJECTS
 ### Student Management System:
   * In this project, student details are recorded and stored in MySQL database
